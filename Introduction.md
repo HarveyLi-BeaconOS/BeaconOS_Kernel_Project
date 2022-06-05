@@ -1,0 +1,6 @@
+# BeaconOS Kernel Project
+This is the project that still stays on our TODO List, while most of the time our team struggled to continueing develope BeaconUI and BeaconOS.
+## Introduction to BeaconOS Kernel Project
+BeaconOS Kernel Project(BKP) is a huge project, proposed by developers of BeaconOS. Although this project is still in planing, this Git Repository is created to give a home of all of its potential enthusiasts. This project is under the umbrella of BeaconOS which aimed to create a operating system with the user interface with Python and only Python. As all people who read the README file in BeaconOS repository, currently BeaconOS is a ***Embedded Linux*** project which is based on Buildroot. However, in this summer and the following years, we are taking a step forward and create a Kernel for this beautiful user interface. This project will be named as *PBK Kernel*
+## Structure of PBK Kernel
+As we all know, Python is considered as a high level programming language, which made it a hard job to ineract with any types of kernel without a proper shell system or a translation layer. Thus, we need a proper interpreter that is "considered as low as possible" or to distribute enough kernel APIs that allow Python to interact with it. 
